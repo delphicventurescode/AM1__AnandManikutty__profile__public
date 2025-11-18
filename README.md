@@ -16,7 +16,7 @@ software engineering, AI/ML strategy, organizational leadership, academia, and o
 ## 📂 Repository Structure
 
 ### **1. `/it-professional-profile/`**
-Industry-facing materials focused wiuth my work spanning:
+Industry-facing materials focused with my work spanning:
 - Software engineering
 - AI/ML strategy
 - Product & platform leadership
