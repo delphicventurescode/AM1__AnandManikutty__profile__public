@@ -8,6 +8,8 @@
 
 ---
 
+[ LAST UPDATED: November 18, 2025 ]
+
 I am a technology leader and strategic advisor with 20+ years of experience delivering products, platforms, and AI-driven solutions across Fortune 500 companies, global nonprofits, and high-growth startups. I currently work as faculty at PES University. My professional experience spans software engineering, digital strategy, full-stack architecture, and applied AI/ML — backed by roles at Microsoft, Oracle, and multiple CTO and advisory positions.
 
 Across my career, I’ve led engineering teams, built scalable systems, designed data and AI capabilities, and guided organizations through digital and organizational change. I bring a systems mindset shaped by hands-on technical depth, product clarity, and strategic execution.
