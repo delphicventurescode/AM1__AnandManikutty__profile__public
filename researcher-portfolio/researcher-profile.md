@@ -1,6 +1,6 @@
 # SUMMARY
 
-This GitHub repository has been created to reflect my newly **restructured professional profile** — integrating my work across technology, analytics, teaching, research, and theory-building. I am a driven, interdisciplinary professional with over 10 years of experience in **digital analytics**, **data-driven decision-making**, and **digital transformation** across Technology, Media, and Agriculture. My work brings together computational thinking, data modeling, and strategic insight to unlock business value and fuel innovation.
+This GitHub repository was created to reflect my **restructured professional profile** — integrating my work across technology, analytics, teaching, research, and theory-building. I am a driven, interdisciplinary professional with over 10 years of experience in **digital analytics**, **data-driven decision-making**, and **digital transformation** across Technology, Media, and Agriculture. My work brings together computational thinking, data modeling, and strategic insight to unlock business value and fuel innovation.
 
 Alongside my industry and academic background, I have been developing a series of ambitious theoretical projects across **philosophy**, **political science**, **economics**, and **business strategy**. These belong to a broader body of work I call **La Gravaj Teorioj** (“The Important Theories”).
 
