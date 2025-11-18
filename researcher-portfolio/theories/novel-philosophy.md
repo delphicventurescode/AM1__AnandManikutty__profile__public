@@ -36,8 +36,9 @@ For a deeper comparison, see:
 ➡️ *Has There Been Anything Like La Gxoja Filozofio Before?*
 
 ---
-Link: 
-https://lagxojafilozofio.wordpress.com/has-there-ever-been-anything-like-la-gxoja-filozofio/
+Link below:  
+➡️ [Has There Been Anything Like La Gxoja Filozofio Before?](https://lagxojafilozofio.wordpress.com/has-there-ever-been-anything-like-la-gxoja-filozofio/)
+
 ---
 
 This page was created on the La Gxoja Filozofio website specifically to answer this question, since many people asked me this question when I mentioned this novel philosophy to them.
