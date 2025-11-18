@@ -41,8 +41,7 @@ Each project is presented in standalone `.md` files for clarity.
 
 Contains my long-format academic CV, including:
 - Research publications  
-- Teaching experience  
-- Academic appointments  
+- Teaching experience    
 - Talks, lectures, and theoretical contributions
 
 ---
