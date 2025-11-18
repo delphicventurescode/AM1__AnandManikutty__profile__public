@@ -44,7 +44,7 @@ It integrates emotional clarity, compassion, cognitive science, and quiet streng
 ## 3. A New Theory of the Firm  
 **Rival to:** Ronald Coase and Oliver Williamson  
 This framework expands the concept of the firm beyond transaction costs and hierarchical governance.  
-It incorporates identity, attention, emotion, information flows, and purpose—offering a model for how organizations create, sustain, and evolve value in complex environments.  
+
 ➡️ See: *theory-of-the-firm.md*
 
 ---
