@@ -15,7 +15,7 @@ software engineering, AI/ML strategy, organizational leadership, academia, and o
 
 ## 📂 Repository Structure
 
-### **1. `/it-professional-profile/`**
+### **0. `/it-professional-profile/`**
 Industry-facing materials focused with my work spanning:
 - Software engineering
 - AI/ML strategy
@@ -25,7 +25,7 @@ Industry-facing materials focused with my work spanning:
 
 ---
 
-### **2. `/researcher-portfolio/`**
+### **1. `/researcher-portfolio/`**
 A collection of informational pointers, documents, summaries, and outlines related to my research and theoretical work:
 - Political theory  
 - Philosophy (La Gxoja Filozofio)
@@ -36,6 +36,18 @@ A collection of informational pointers, documents, summaries, and outlines relat
 Each project is presented in standalone `.md` files for clarity.
 
 ---
+### **2. `/writer-portfolio/`**
+A collection of informational pointers, documents, summaries, and outlines related to my research and theoretical work:
+- Political theory  
+- Philosophy (La Gxoja Filozofio)
+- Theory of the Firm
+- Population of the Americas  
+- Additional theoretical frameworks
+
+Each project is presented in standalone `.md` files for clarity.
+
+---
+
 
 ### **3. `/academicCV/`**
 
