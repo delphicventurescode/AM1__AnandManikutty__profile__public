@@ -16,19 +16,17 @@ software engineering, AI/ML strategy, organizational leadership, academia, and o
 ## 📂 Repository Structure
 
 ### **1. `/it-professional-profile/`**
-Industry-facing materials focused on:
+Industry-facing materials focused wiuth my work spanning:
 - Software engineering
 - AI/ML strategy
 - Product & platform leadership
 - Information security
 - CTO & Fractional CTO engagements
 
-Includes structured summaries, competency maps, and a technical LinkedIn-style profile.
-
 ---
 
 ### **2. `/researcher-portfolio/`**
-A collection of documents, summaries, and outlines related to my research and theoretical work:
+A collection of informational pointers, documents, summaries, and outlines related to my research and theoretical work:
 - Political theory  
 - Philosophy (La Gxoja Filozofio)
 - Theory of the Firm
@@ -40,6 +38,7 @@ Each project is presented in standalone `.md` files for clarity.
 ---
 
 ### **3. `/academicCV/`**
+
 Contains my long-format academic CV, including:
 - Research publications  
 - Teaching experience  
@@ -49,7 +48,10 @@ Contains my long-format academic CV, including:
 ---
 
 ### **4. `/papers/`**
-Draft papers, slide decks, conceptual summaries, and working documents across:
+
+Pointers to papers, as well as other material.
+
+"Other material" include such materials as slide decks, conceptual summaries, and working documents across:
 - Political science  
 - Philosophy  
 - Economics  
@@ -61,7 +63,8 @@ Draft papers, slide decks, conceptual summaries, and working documents across:
 ### **5. `/patents/`**
 Information about patents I have authored or co-invented, including:
 - U.S. Patent filings  
-- Areas of contribution (databases, XML technologies, distributed systems)
+
+Areas of contribution include: databases, XML technologies, distributed systems.
 
 ---
 
