@@ -58,6 +58,7 @@ Pointers to papers, as well as other material.
 - Applied AI frameworks  
 - Comparative theory
 
+Every paper is referenced with complete citation details.
 ---
 
 ### **5. `/patents/`**
