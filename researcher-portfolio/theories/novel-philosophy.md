@@ -86,7 +86,7 @@ In quiet moments, the fog clears — and joy returns.
 
 # Materials and Resources
 
-This repository contains selected resources from **La Gxoja Projekto**, including:
+The La Gxoja Filozofio website contains selected resources from **La Gxoja Projekto**, including:
 
 - **Slide decks** from lectures and talks  
 - **Papers** outlining the philosophical structure and comparative analysis  
@@ -97,7 +97,9 @@ This repository contains selected resources from **La Gxoja Projekto**, includin
 All materials are free to read, download, and share.  
 This is a *living philosophy* — the resources will continue to grow.
 
-➡️ Explore the full collection: *Slide Decks & Papers*
+➡️ Explore the full collection on the website:
+➡️➡️ [La Gxoja Filozio website](https://lagxojafilozofio.wordpress.com/)
+
 
 ---
 
@@ -109,16 +111,6 @@ La Gxoja Filozofio encourages a way of living built on:
 - Sharing joys and journaling prompts  
 - Meeting the world with presence  
 - Practicing soft strength in difficult moments  
-
----
-
-# Join the Gxoja Circle
-
-The Gxoja Circle is a quiet, thoughtful community offering:
-
-- Weekly reflections  
-- Micro-practices for gentle joy  
-- No noise — only nourishment
 
 ---
 
