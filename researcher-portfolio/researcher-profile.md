@@ -32,7 +32,8 @@ Additional details — including excerpts, diagrams, and conceptual notes — ar
 
 My latest publication is a visually rich, narrative-driven novelette set in the Middle East. It introduces the political theory outlined above through character and atmosphere rather than academic exposition.
 
-👉 **Read the first thirty pages here.**
+👉 **Read the first thirty pages here:**
+https://anandmanikutty2018.wixsite.com/professionalprofile/projects
 
 This work blends literary fiction with rigorous conceptual depth — allowing ideas to emerge through story rather than lecture.
 
@@ -44,4 +45,8 @@ This work blends literary fiction with rigorous conceptual depth — allowing id
 - **Computational Thinking & Modeling**  
 - **Digital Transformation & Business Strategy**  
 - **AI-Driven Decision Making**
+- **Research & Theoretical Development**
+- **Cross-Functional Leadership**
+- **Project & Stakeholder Management**
 
+[+]
