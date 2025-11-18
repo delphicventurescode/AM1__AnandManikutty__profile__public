@@ -1,8 +1,8 @@
 # Political Theory
 
-This theory is part of what we internally call the LGPT document. LPGT stands for La Grava Politika Teorio.
+This theory is part of what we internally call the LGPT document (or documents, as now there is more than just one book). LPGT stands for La Grava Politika Teorio.
 
-The LGPT document outlines a new political theory I have developed — a framework designed to re-examine how nations, cultures, and systems in the Middle East interact in the 21st century. It is intended as both a critique of, and a successor to, some of the most influential traditions in modern political thought.
+The LGPT documents outline a new political theory I have developed — a framework designed to re-examine how nations, cultures, and systems in the Middle East interact in the 21st century. It is intended as both a critique of, and a successor to, some of the most influential traditions in modern political thought.
 
 In particular, the theory responds directly to:
 
