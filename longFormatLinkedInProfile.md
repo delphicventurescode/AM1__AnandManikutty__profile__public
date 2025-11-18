@@ -33,12 +33,14 @@ Higher Education · Nonprofits
 
 ---
 
-For the **Outline of Anand Manikutty's Professional Profile** (also linked in the Featured section):  
+For the **Outline of Anand Manikutty's Professional Profile** document (also linked in the Featured section):  
 https://bit.ly/4ok7o8r
 
 While my day-time role is currently as a professor, I’m a multi-disciplinary professional with 20+ years of experience across software engineering, academia, non-profits, and entrepreneurial ventures.
 
 Additional information is available on my GitHub repo.
+
+Link: [ ANand Manikutty's Git Hub Rep](https://github.com/delphicventurescode/AM1__AnandManikutty__profile__public/)
 
 🔧 **Professional Profile:** https://bit.ly/3Hsylqd
 
