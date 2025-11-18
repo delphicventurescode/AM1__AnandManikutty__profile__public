@@ -26,7 +26,7 @@ Industry-facing materials focused with my work spanning:
 ---
 
 ### **1. `/researcher-portfolio/`**
-A collection of informational pointers, documents, summaries, and outlines related to my research and theoretical work:
+A collection of informational pointers to documents, summaries, and outlines related to my research and theoretical work:
 - Political theory  
 - Philosophy (La Gxoja Filozofio)
 - Theory of the Firm
@@ -37,7 +37,7 @@ Each project is presented in standalone `.md` files for clarity.
 
 ---
 ### **2. `/writer-portfolio/`**
-A collection of informational pointers, documents, summaries, and outlines related to my research and theoretical work:
+A collection of informational pointers to documents, summaries, and outlines related to my research and theoretical work:
 - Political theory  
 - Philosophy (La Gxoja Filozofio)
 - Theory of the Firm
