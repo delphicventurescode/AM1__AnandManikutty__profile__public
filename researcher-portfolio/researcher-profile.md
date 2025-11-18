@@ -23,7 +23,8 @@ A challenge to traditional migration and settlement narratives; a response to ar
 A reconceptualization of how businesses create and sustain value, offering alternatives to frameworks by Coase and Williamson.
 
 Many of these projects are in various stages of the publication process.  
-Additional details — including excerpts, diagrams, and conceptual notes — are available through QR codes in this repository.
+
+Additional details — including excerpts, diagrams, and conceptual notes — are available through QR codes.
 
 ---
 
