@@ -53,9 +53,10 @@ La Gxoja Filozofio responds to this moment by offering a gentler alternative —
 
 It is an invitation to reimagine life not through pressure, productivity, or fear, but through **soft strength**, clarity, and joy.
 
-Read more:  
+Read more on the:  
 ➡️ [La Gxoja Filozio website](https://lagxojafilozofio.wordpress.com/)
-Including content on *Why We Need a Joy Philosophy in 2025*
+
+Includes content on *Why We Need a Joy Philosophy in 2025*
 
 ---
 
