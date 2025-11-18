@@ -40,7 +40,7 @@ While my day-time role is currently as a professor, I’m a multi-disciplinary p
 
 Additional information is available on my GitHub repo.
 
-Link: [ ANand Manikutty's Git Hub Rep](https://github.com/delphicventurescode/AM1__AnandManikutty__profile__public/)
+Link: [ Anand Manikutty's Git Hub Rep](https://github.com/delphicventurescode/AM1__AnandManikutty__profile__public/)
 
 🔧 **Professional Profile:** https://bit.ly/3Hsylqd
 
