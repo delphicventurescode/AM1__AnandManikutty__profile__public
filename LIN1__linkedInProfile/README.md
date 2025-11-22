@@ -3,7 +3,7 @@
 [+]
 ### 🎓 Academic & Research
 
-I currently teach as Faculty at **PES University**. Subjects I teach or have taught include **Data, Analytics, AI, and Behavioral Science**.
+I currently teach as Faculty at **PES University**. Subjects I teach or have taught include **Data amd Decisions, Analytics, AI, and Behavioral Science**.
 
 I publish books, and develop new theoretical frameworks across political science, economics, and philosophy. This academic depth strengthens my ability to **communicate clearly, think systemically, and solve complex problems across domains**.
 
