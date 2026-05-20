@@ -42,7 +42,10 @@ Provide strategic, hands-on advisory services to startups, mid-market companies,
 ---
 
 ## Fulmo Talk Series
-**Host** *Jun 2025 - Dec 2025 · Part-time* *Bangalore Urban, Karnataka, India · On-site* Host. Speaker. Author. Deep Generalist. 🎙️
+**Host** *Jun 2025 - Dec 2025 · Part-time* *Bangalore Urban, Karnataka, India · On-site* 
+
+
+Host. Speaker. Author. Deep Generalist. 🎙️
 
 
 Architected and developed the Fulmo Talk Series platform to democratize science-based insights and thought leadership. From interviewing the "Queen of Happiness" Prof. Sonja Lyubomirsky to engineering pioneers like Dr. Sudhanshu Mani, the series bridges the gap between high-level expertise and student communities worldwide. 
