@@ -7,7 +7,9 @@ Here is my LinkedIn profile information in .md format.
 # WORK EXPERIENCE
 
 ## PES University
-**Visiting Faculty** *Oct 2025 - Present* *Bangalore Urban, Karnataka, India · On-site* I am currently a Visiting Faculty member at PES University, teaching in the MBA program. I design and deliver courses and educational material that **𝐛𝐫𝐢𝐝𝐠𝐞 𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐭𝐡𝐞𝐨𝐫𝐲 𝐰𝐢𝐭𝐡 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞**. My teaching focuses on strategic thinking, brand management, and technology-driven decision-making, utilizing interactive sessions and applied projects to prepare students for today’s dynamic business environment.
+**Visiting Faculty** *Oct 2025 - Present* *Bangalore Urban, Karnataka, India · On-site* 
+
+I am currently a Visiting Faculty member at PES University, teaching in the MBA program. I design and deliver courses and educational material that **𝐛𝐫𝐢𝐝𝐠𝐞 𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐭𝐡𝐞𝐨𝐫𝐲 𝐰𝐢𝐭𝐡 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞**. My teaching focuses on strategic thinking, brand management, and technology-driven decision-making, utilizing interactive sessions and applied projects to prepare students for today’s dynamic business environment.
 
 Alongside my teaching commitments, I successfully authored two books during my first two trimesters—both of which are currently being published on Amazon. I also continue to spearhead various **𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲-𝐛𝐚𝐬𝐞𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬**.
 
@@ -18,7 +20,9 @@ To learn more about my background and view my work, please explore my **𝐩𝐫
 ---
 
 ## Fulmo Technologies
-**Chief Technology Officer** *Mar 2024 - Present · Full-time* *Bengaluru, Karnataka, India* Serve as a high-level Technology and Business Consultant, offering strategic services to companies and MNCs. Fulmo Technologies provides comprehensive technology consulting to both agile startups and established corporations, building upon proprietary solutions originally ideated across prominent Indian and U.S. ventures.
+**Chief Technology Officer** *Mar 2024 - Present · Full-time* *Bengaluru, Karnataka, India* 
+
+Serve as a high-level Technology and Business Consultant, offering strategic services to companies and MNCs. Fulmo Technologies provides comprehensive technology consulting to both agile startups and established corporations, building upon proprietary solutions originally ideated across prominent Indian and U.S. ventures.
 
 * **𝐌𝐮𝐥𝐭𝐢-𝐒𝐞𝐜𝐭𝐨𝐫 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩:** Spearheaded innovative initiatives across product development, agronomy, and core technology. Hosted the Fulmo Talk Series and served as a Fractional CTO to architect and ship commercial-grade software.
 * **𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 & 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲:** Further developed scalable media and enterprise platforms, driving the technical vision, market positioning, and cross-functional execution for emerging digital assets.
