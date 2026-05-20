@@ -34,7 +34,10 @@ Serve as a high-level Technology and Business Consultant, offering strategic ser
 ---
 
 ## Various Startups, Organizations and Scale-ups
-**Strategic Advisor** *Jun 2007 - Present · Part-time* Provide strategic, hands-on advisory services to startups, mid-market companies, and incubator-backed ventures. Partner with executive teams to guide business and operating models, product architecture, UX/design strategy, go-to-market execution, optimized pricing structures, customer success frameworks, and sustainable profitability metrics.
+**Strategic Advisor** *Jun 2007 - Present · Part-time* 
+
+
+Provide strategic, hands-on advisory services to startups, mid-market companies, and incubator-backed ventures. Partner with executive teams to guide business and operating models, product architecture, UX/design strategy, go-to-market execution, optimized pricing structures, customer success frameworks, and sustainable profitability metrics.
 
 ---
 
