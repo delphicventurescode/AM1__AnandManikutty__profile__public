@@ -11,3 +11,7 @@ Ligiloj (trans. : "Links:) :
 (*) Link #3: https://github.com/delphicventurescode/WR1_worldRecordAttempt__mostPoetryBooksConsecYears__priv
 
 [+]
+
+This is a solo World Record attempt.
+
+[+]
