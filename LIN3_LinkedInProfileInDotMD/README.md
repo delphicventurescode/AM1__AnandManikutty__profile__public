@@ -164,6 +164,7 @@ Director of Technology and Marketing role.
 ## Oracle
 **Principal Product Manager** *Jul 2012 - Jan 2014 · 1 yr 7 mos* *Redwood City, California, United States · On-site
 
+Principal Product Manager role.
 * Directed high-impact enterprise software initiatives within Oracle’s Application Development Framework, successfully driving a 7% increase in global enterprise utilization. Led elite, cross-functional engineering and product management teams to build, scale, and optimize the core architecture powering Oracle CRM, HCM, and Financials—a core enterprise software suite generating over $3B+ in corporate revenue.
 
 ---
@@ -171,6 +172,7 @@ Director of Technology and Marketing role.
 ## Stanford University
 **Masters Student** *Sep 2011 - Jul 2012 · 11 mos* *Stanford, California, United States · On-site* 
 
+Masters student at Stanford University.
 * Completed an intensive, comprehensive graduate curriculum focusing on Marketing Management, Corporate Finance, Operations, Financial Accounting, and Organizational Behavior.
 * Contributed to the South Asian edition of a **𝐜𝐥𝐚𝐬𝐬𝐢𝐜** textbook on **"Strategic Management,"** widely regarded as a definitive academic and corporate authority in the strategic space.
 
@@ -188,29 +190,38 @@ Director of Technology and Marketing role.
 **Graduate Student** *Sep 2007 - Dec 2009 · 2 yrs 4 mos* *Cambridge, Massachusetts, United States · On-site* 
 
 
-Doctoral student at the **Harvard Business School**. Undertook a highly rigorous, immersive research curriculum focusing on advanced Corporate Finance, Operations Management, Quantitative Research Methodologies, and Organizational Behavior.
+Doctoral student at the **Harvard Business School**. 
+* Undertook a highly rigorous, immersive research curriculum focusing on advanced Corporate Finance, Operations Management, Quantitative Research Methodologies, and Organizational Behavior.
 
 ---
 
 ## Digital Green
-**Principal Consultant** *Jun 2006 - Sep 2007 · 1 yr 4 mos* *Bangalore Urban, Karnataka, India · Remote* * Conducted deep operational research and strategic analysis to align large-scale social objectives with data-driven agronomic deployment.
+**Principal Consultant** *Jun 2006 - Sep 2007 · 1 yr 4 mos* *Bangalore Urban, Karnataka, India · Remote* 
+
+Principal Consultant role.
+* Conducted deep operational research and strategic analysis to align large-scale social objectives with data-driven agronomic deployment.
 * Played a vital role in organizing the strategic presentation that secured foundational funding directly from **Bill Gates in person**. Digital Green has since scaled across 5 continents, serving over 6 Indian states, with an agricultural extension system model that demonstrated a staggering **900%+ optimization** over traditional methodologies.
 * Formulated comprehensive data insights to guide large-scale field implementations and mapped early technological systems for automated farm management.
 
 ---
 
 ## Oracle
-**Senior Member of Technical Staff** *Jun 2000 - Jun 2006 · 6 yrs 1 mo* *Redwood City, California, United States · On-site* Core Software Engineering & Language Design role within Oracle's elite **Server Technologies Division**.
+**Senior Member of Technical Staff** *Jun 2000 - Jun 2006 · 6 yrs 1 mo* *Redwood City, California, United States · On-site* 
+
+Core Software Engineeringrole within Oracle's elite **Server Technologies Division**. Later, was charged with significant Language Design and Software Patenting responsibilities.
 
 * **𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠:** Designed and implemented foundational engine components, server utilities, and internal features for the SQL, Objects, and XML development group. Authored core code for SQL/XML functions, XPath Query Rewrite engines, and high-throughput XQuery parsers.
 * **𝐈𝐧𝐯𝐞𝐧𝐭𝐨𝐫𝐬𝐡𝐢𝐩 & 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡:** Listed as an inventor or co-inventor on **𝟏𝟓+ 𝐠𝐥𝐨𝐛𝐚𝐥 𝐄𝐔/𝐔𝐒 𝐩𝐚𝐭𝐞𝐧𝐭𝐬** covering breakthrough designs in XML processing, Database Management Systems (DBMS), and distributed Web Services.
 * **𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐏𝐮𝐛𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬:** Authored peer-reviewed research papers published at premier global computer science venues, representing Oracle at flagship industry conferences including **𝐕𝐋𝐃𝐁** and **𝐈𝐂𝐃𝐄**.
-* **𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐃𝐞𝐬𝐢𝐠𝐧:** Served as an official member of the **SQL Language Committee**, representing Oracle’s technical interests in high-level ANSI/ISO standards design alongside representatives from Microsoft and IBM.
+* **𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐃𝐞𝐬𝐢𝐠𝐧:** Served as an official member of the **SQL Language Committee**, representing Oracle’s technical interests in high-level ANSI/ISO standards design alongside representatives from Microsoft and IBM. The **SQL Language Committee** is the highest level committee for the design of the SQL Language.
 
 ---
 
 ## Microsoft
-**Software Design Engineer** *Feb 1999 - Jun 2000 · 1 yr 5 mos* *Redmond, Washington, United States · On-site* * Engineered core transactional features, optimization routines, and relational engine sub-systems for the **Microsoft SQL Server Relational Engine Group**.
+**Software Design Engineer** *Feb 1999 - Jun 2000 · 1 yr 5 mos* *Redmond, Washington, United States · On-site* 
+
+Software Engineer role.
+* Engineered core transactional features, optimization routines, and relational engine sub-systems for the **Microsoft SQL Server Relational Engine Group**.
 * Orchestrated advanced database performance benchmarks, code refactoring, and critical scalability projects.
 * **𝐖𝐨𝐫𝐥𝐝 𝐑𝐞𝐜𝐨𝐫𝐝 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭:** Served as a core engineer on the historical Microsoft team that secured the official, industry-leading **𝐖𝐨𝐫𝐥𝐝 𝐑𝐞𝐜𝐨𝐫𝐝 for Database Performance** under standard transaction processing benchmarks.
 """
