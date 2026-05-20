@@ -73,7 +73,7 @@ https://meridian-erp.onhercules.app/
 
 ## 🛠️ Infrastructure & Deployment
 
-All applications listed above are deployed and hosted via **Hercules**, utilizing efficient virtualization and containerization practices to ensure consistent uptime and performance.
+All applications listed above have been tested. Some of them are deployed and hosted via **Hercules**, utilizing efficient virtualization and containerization practices to ensure consistent uptime and performance.
 
 ---
 *Feel free to explore the live links above or dig into the source code directories to review the architecture.*
