@@ -5,18 +5,24 @@ This directory has a sample of the web apps I have created.
 [+]
 ## TL;DR
 
-TL;DR - List of Hercules apps:
+TL;DR - List of web apps:
 
 [+]
 
-Sapienta CRM:
+(a) Sapienta CRM:
 https://sapientacrm.onhercules.app/
 
-Polyglot Poet World (Record Manager for Books):
+(b) Kagazi web app:
+https://kagazi-sito.onrender.com/
+
+(c) Polyglot Poet World (Record Manager for Books):
 https://polyglotpoetworldrecord.onhercules.app/
 
-Retrograms CRM web app:
+(d) Retrograms CRM web app:
 https://retrograms-crm-app.onhercules.app/
+
+(e) Sentimento web app:
+https://sen1-sentimento-replit-app-priv.onrender.com/
 
 [+]
 
@@ -34,13 +40,24 @@ Welcome! This directory contains a curated selection of live web applications I 
 ### 🔹 Sapienta CRM
 * **Live Link:** [sapientacrm.onhercules.app](https://sapientacrm.onhercules.app/)
 * **Description:** A streamlined Customer Relationship Management (CRM) application designed to optimize workflow tracking and data management.
-* **Tech Stack:** *[e.g., React, Node.js, PostgreSQL]*
 
 ### 🔹 Polyglot Poet World (Record Manager for Books)
 * **Live Link:** [polyglotpoetworldrecord.onhercules.app](https://polyglotpoetworldrecord.onhercules.app/)
 * **Description:** A specialized data management platform built to track, organize, and manage large-scale volume publishing records and metadata across multi-language collections.
-* **Tech Stack:** *[e.g., Python, Flask, SQLite]*
 
+### Kagazi web app:
+* **Live Link:**
+https://kagazi-sito.onrender.com/
+* A web app offering high end tailoring solutions for expats and local South Asians alike.
+
+### Sentimento  web app:
+* **Live Link:**
+[https://kagazi-sito.onrender.com/
+](https://sen1-sentimento-replit-app-priv.onrender.com/
+)
+
+* A simple web app offering mood tracking.
+  
 ### 🔹 Retrograms CRM
 * **Live Link:** [retrograms-crm-app.onhercules.app](https://retrograms-crm-app.onhercules.app/)
 * **Description:** A focused CRM web application tailored for specialized communication logs and client management.
