@@ -51,7 +51,7 @@ Welcome! This directory contains a curated selection of live web applications I 
 ### 🔹Kagazi web app:
 * **Live Link:**
 https://kagazi-sito.onrender.com/
-* A web app offering high end tailoring solutions for expats and local South Asians alike.
+* **Description:** A web app offering high end tailoring solutions for expats and local South Asians alike.
 
 ### 🔹Sentimento  web app:
 * **Live Link:**
@@ -59,7 +59,7 @@ https://kagazi-sito.onrender.com/
 ](https://sen1-sentimento-replit-app-priv.onrender.com/
 )
 
-* A simple web app offering mood tracking.
+* **Description:** A simple web app offering mood tracking.
   
 ### 🔹Retrograms CRM
 * **Live Link:** [retrograms-crm-app.onhercules.app](https://retrograms-crm-app.onhercules.app/)
@@ -68,7 +68,7 @@ https://kagazi-sito.onrender.com/
 ### 🔹Meridian ERP
 * **Live Link:** 
 https://meridian-erp.onhercules.app/
-* A visually clean ERP web app
+* **Description:** A visually clean ERP web app
 ---
 
 ## 🛠️ Infrastructure & Deployment
