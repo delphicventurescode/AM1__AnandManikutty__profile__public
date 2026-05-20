@@ -22,6 +22,7 @@ To learn more about my background and view my work, please explore my **𝐩𝐫
 ## Fulmo Technologies
 **Chief Technology Officer** *Mar 2024 - Present · Full-time* *Bengaluru, Karnataka, India* 
 
+
 Serve as a high-level Technology and Business Consultant, offering strategic services to companies and MNCs. Fulmo Technologies provides comprehensive technology consulting to both agile startups and established corporations, building upon proprietary solutions originally ideated across prominent Indian and U.S. ventures.
 
 * **𝐌𝐮𝐥𝐭𝐢-𝐒𝐞𝐜𝐭𝐨𝐫 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩:** Spearheaded innovative initiatives across product development, agronomy, and core technology. Hosted the Fulmo Talk Series and served as a Fractional CTO to architect and ship commercial-grade software.
@@ -40,6 +41,7 @@ Serve as a high-level Technology and Business Consultant, offering strategic ser
 ## Fulmo Talk Series
 **Host** *Jun 2025 - Dec 2025 · Part-time* *Bangalore Urban, Karnataka, India · On-site* Host. Speaker. Author. Deep Generalist. 🎙️
 
+
 Architected and developed the Fulmo Talk Series platform to democratize science-based insights and thought leadership. From interviewing the "Queen of Happiness" Prof. Sonja Lyubomirsky to engineering pioneers like Dr. Sudhanshu Mani, the series bridges the gap between high-level expertise and student communities worldwide. 
 
 Explored and ideated deep theoretical frameworks for human wellness and cognitive performance. As I transition into an advisory role with the series, my focus centers on the concept of **"𝐓𝐡𝐞 𝐃𝐞𝐞𝐩 𝐆𝐞𝐧𝐞𝐫𝐚𝐥𝐢𝐬𝐭"**—exploring the massive execution gap between surface-level generalists and hyper-competent practitioners who achieve **𝐭𝐫𝐮𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞** across multiple complex domains.
@@ -54,6 +56,7 @@ Explored and ideated deep theoretical frameworks for human wellness and cognitiv
 ## Various Organizations
 **Strategic Advisor and Advisory Board Member** *Jan 2018 - Oct 2025 · Part-time* **𝐈𝐧𝐯𝐞𝐬𝐭𝐨𝐫, 𝐀𝐝𝐯𝐢𝐬𝐨𝐫, 𝐚𝐧𝐝 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫**
 
+
 Led and contributed to multiple high-impact, not-for-profit initiatives focused on mental health, resilience, and student well-being. Delivered invited talks, technical workshops, and keynotes at premier institutions including **𝐈𝐈𝐓 𝐌𝐚𝐝𝐫𝐚𝐬, 𝐈𝐄𝐄𝐄 𝐒𝐨𝐜𝐢𝐞𝐭𝐲, 𝐏𝐄𝐒 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲, 𝐀𝐂𝐌 𝐒𝐨𝐜𝐢𝐞𝐭𝐲**, and the **𝐑𝐨𝐭𝐚𝐫𝐚𝐜𝐭 𝐂𝐥𝐮𝐛**. 
 
 Developed **𝐋𝐚 𝐆𝐱𝐨𝐣𝐚 𝐏𝐫𝐨𝐣𝐞𝐤𝐭𝐨**, an initiative offering structured mental wellness frameworks designed to boost resilience and combat student stress across Indian campuses. Served as the Founder and Strategic Advisor for the Esperanto and ConLang Society of South India. 
@@ -63,7 +66,10 @@ Developed **𝐋𝐚 𝐆𝐱𝐨𝐣𝐚 𝐏𝐫𝐨𝐣𝐞𝐤𝐭𝐨**, an
 ---
 
 ## USPTO
-**Patent Examiner** *Sep 2023 - Mar 2024 · Full-time* *Sacramento, California, United States · On-site* Intellectual Property & Regulatory Role.
+**Patent Examiner** *Sep 2023 - Mar 2024 · Full-time* *Sacramento, California, United States · On-site* 
+
+
+Intellectual Property & Regulatory Role.
 
 * Reviewed and analyzed 10+ complex patent applications, evaluating technical claims and ensuring strict compliance with federal regulations to grant high-quality patents.
 * Completed rigorous training at the **𝐏𝐚𝐭𝐞𝐧𝐭 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐀𝐜𝐚𝐝𝐞𝐦𝐲**, deepening expertise in U.S. patent law, statutory compliance, and prior art analysis.
@@ -72,7 +78,10 @@ Developed **𝐋𝐚 𝐆𝐱𝐨𝐣𝐚 𝐏𝐫𝐨𝐣𝐞𝐤𝐭𝐨**, an
 ---
 
 ## Qwykr Technologies
-**Senior Director** *Mar 2022 - Sep 2023 · Full-time* *Bengaluru, Karnataka, India · On-site* Directed technology and business consulting initiatives for diverse digital brands, including corporate media platforms like Namaste Bharat and Pravasi Indians magazine. Qwykr Technologies provides high-impact software architecture and business strategy for early-stage startups and enterprise clients.
+**Senior Director** *Mar 2022 - Sep 2023 · Full-time* *Bengaluru, Karnataka, India · On-site* 
+
+
+Directed technology and business consulting initiatives for diverse digital brands, including corporate media platforms like Namaste Bharat and Pravasi Indians magazine. Qwykr Technologies provides high-impact software architecture and business strategy for early-stage startups and enterprise clients.
 
 * **𝐌𝐮𝐥𝐭𝐢-𝐒𝐞𝐜𝐭𝐨𝐫 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩:** Spearheaded cross-functional engineering, technology, and agritech initiatives, delivering measurable operational scaling.
 * **𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐂𝐨-𝐅𝐨𝐮𝐧𝐝𝐞𝐫:** Co-founded Pravasi Indians magazine, orchestrating its core digital transformation, platform strategy, and media positioning.
@@ -84,14 +93,20 @@ Developed **𝐋𝐚 𝐆𝐱𝐨𝐣𝐚 𝐏𝐫𝐨𝐣𝐞𝐤𝐭𝐨**, an
 ---
 
 ## MaxedS
-**Vice President - Client Relationship & Strategic Planning** *Jul 2021 - Jan 2023 · Part-time* *Bangalore Urban, Karnataka, India · Remote* Served as a core Strategy Advisor for an innovative technology sales and acceleration firm based in Chicago. Formulated enterprise sales initiatives, structured strategic outreach campaigns to global data firms like Abzooba, and integrated data-driven sales architectures with hands-on systems development.
+**Vice President - Client Relationship & Strategic Planning** *Jul 2021 - Jan 2023 · Part-time* *Bangalore Urban, Karnataka, India · Remote* 
+
+
+Served as a core Strategy Advisor for an innovative technology sales and acceleration firm based in Chicago. Formulated enterprise sales initiatives, structured strategic outreach campaigns to global data firms like Abzooba, and integrated data-driven sales architectures with hands-on systems development.
 
 During this tenure, I ideated and mapped the foundational system tools that ultimately evolved into specialized enterprise applications, including Konekto CRM, Retrograms CRM, the web application **𝐊𝐚𝐠𝐚𝐳𝐢** (https://kagazi-sito.onrender.com/), and the **𝐒𝐞𝐧𝐭𝐢𝐦𝐞𝐧𝐭𝐨** resilience tracker (https://sen1-sentimento-replit-app-priv.onrender.com/). These applications were subsequently integrated into student well-being initiatives across academic institutions in India.
 
 ---
 
 ## Namaste Bharat Magazine
-**Cofounder, Writer & Director of Public Relations** *Sep 2021 - Mar 2022 · Full-time* *Bangalore Urban, Karnataka, India · Hybrid* Cofounded Namaste Bharat magazine, a premium media platform celebrating the achievements of the Indian diaspora, which subsequently expanded its editorial vision to evolve into Pravasi Indians.
+**Cofounder, Writer & Director of Public Relations** *Sep 2021 - Mar 2022 · Full-time* *Bangalore Urban, Karnataka, India · Hybrid* 
+
+
+Cofounded Namaste Bharat magazine, a premium media platform celebrating the achievements of the Indian diaspora, which subsequently expanded its editorial vision to evolve into Pravasi Indians.
 
 * Crafted strategic content contributions focusing on heritage nutrition and historical culinary arts from India's royal kitchens.
 * Shaped the publication’s early editorial voice, digital media roadmap, and content architecture.
@@ -101,7 +116,10 @@ During this tenure, I ideated and mapped the foundational system tools that ulti
 ---
 
 ## Qwykr Technologies
-**Director** *Jan 2018 - Sep 2021 · 3 yrs 9 mos* *Bengaluru, Karnataka, India · On-site* Delivered elite software architecture and business advisory consulting to prominent enterprise entities, including Hindustan Times Media Labs and Netalla Innovations. 
+**Director** *Jan 2018 - Sep 2021 · 3 yrs 9 mos* *Bengaluru, Karnataka, India · On-site* 
+
+
+Delivered elite software architecture and business advisory consulting to prominent enterprise entities, including Hindustan Times Media Labs and Netalla Innovations. 
 
 * **𝐌𝐮𝐥𝐭𝐢-𝐒𝐞𝐜𝐭𝐨𝐫 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩:** Managed complex, multi-stakeholder technical initiatives across digital media, agritech, and deep-tech platforms.
 * **𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 & 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲:** Guided high-level digital marketing and technical content roadmaps for Fortune 500 enterprises, including HP, Cisco, and BluePrism.
@@ -110,7 +128,10 @@ During this tenure, I ideated and mapped the foundational system tools that ulti
 ---
 
 ## Spot Protocol
-**Advisor** *Nov 2017 - Apr 2018 · 6 mos* *San Francisco Bay Area · Hybrid* Advised on the system mechanics of Spot Protocol—a cutting-edge, blockchain-based decentralized architecture engineered to facilitate fractional ownership of high-value, real-world assets through secure asset tokenization.
+**Advisor** *Nov 2017 - Apr 2018 · 6 mos* *San Francisco Bay Area · Hybrid* 
+
+
+Advised on the system mechanics of Spot Protocol—a cutting-edge, blockchain-based decentralized architecture engineered to facilitate fractional ownership of high-value, real-world assets through secure asset tokenization.
 
 * Provided strategic architecture guidance on asset-backed crypto models, smart contract boundaries, and cross-asset tokenization workflows (spanning real estate, fine art, and intellectual property).
 * Formulated compliance strategies regarding legal and regulatory considerations for decentralized asset classes.
@@ -119,35 +140,50 @@ During this tenure, I ideated and mapped the foundational system tools that ulti
 ---
 
 ## Hartnell College
-**Teaching role (Adjunct Professor)** *Aug 2016 - Dec 2017 · 1 yr 5 mos* *Salinas, California, United States · On-site* Instructed undergraduate courses in computer programming, software design engineering, and practical algorithmic problem-solving. Mentored students at the intersection of technical engineering and commercial business logic, ensuring curriculum relevance against fast-moving Silicon Valley expectations. Emphasized data-driven software development, applied project paradigms, and foundational preparation for careers in AI and database systems.
+**Teaching role (Adjunct Professor)** *Aug 2016 - Dec 2017 · 1 yr 5 mos* *Salinas, California, United States · On-site* 
+
+
+Instructed undergraduate courses in computer programming, software design engineering, and practical algorithmic problem-solving. Mentored students at the intersection of technical engineering and commercial business logic, ensuring curriculum relevance against fast-moving Silicon Valley expectations. Emphasized data-driven software development, applied project paradigms, and foundational preparation for careers in AI and database systems.
 
 ---
 
 ## Delphic Ventures
-**Director** *Jan 2014 - Aug 2016 · 2 yrs 8 mos* *San Francisco Bay Area · On-site* * Spearheaded high-end B2B marketing, positioning, and strategy for advanced IT consulting services, engineering a 45% increase in active client engagement through rigorous, data-driven campaigns.
+**Director** *Jan 2014 - Aug 2016 · 2 yrs 8 mos* *San Francisco Bay Area · On-site* 
+
+
+* Spearheaded high-end B2B marketing, positioning, and strategy for advanced IT consulting services, engineering a 45% increase in active client engagement through rigorous, data-driven campaigns.
 * Played a critical corporate turnaround role for CoinTerra (a Texas-based high-performance hardware firm behind the world's fastest Bitcoin mining systems) during a highly volatile financial restructuring phase, designing lean operational workflows that stabilized critical delivery paths.
 
 ---
 
 ## Oracle
-**Principal Product Manager** *Jul 2012 - Jan 2014 · 1 yr 7 mos* *Redwood City, California, United States · On-site* Directed high-impact enterprise software initiatives within Oracle’s Application Development Framework, successfully driving a 7% increase in global enterprise utilization. Led elite, cross-functional engineering and product management teams to build, scale, and optimize the core architecture powering Oracle CRM, HCM, and Financials—a core enterprise software suite generating over $3B+ in corporate revenue.
+**Principal Product Manager** *Jul 2012 - Jan 2014 · 1 yr 7 mos* *Redwood City, California, United States · On-site
+
+* Directed high-impact enterprise software initiatives within Oracle’s Application Development Framework, successfully driving a 7% increase in global enterprise utilization. Led elite, cross-functional engineering and product management teams to build, scale, and optimize the core architecture powering Oracle CRM, HCM, and Financials—a core enterprise software suite generating over $3B+ in corporate revenue.
 
 ---
 
 ## Stanford University
-**Masters Student** *Sep 2011 - Jul 2012 · 11 mos* *Stanford, California, United States · On-site* * Completed an intensive, comprehensive graduate curriculum focusing on Marketing Management, Corporate Finance, Operations, Financial Accounting, and Organizational Behavior.
+**Masters Student** *Sep 2011 - Jul 2012 · 11 mos* *Stanford, California, United States · On-site* 
+
+* Completed an intensive, comprehensive graduate curriculum focusing on Marketing Management, Corporate Finance, Operations, Financial Accounting, and Organizational Behavior.
 * Contributed to the South Asian edition of a **𝐜𝐥𝐚𝐬𝐬𝐢𝐜** textbook on **"Strategic Management,"** widely regarded as a definitive academic and corporate authority in the strategic space.
 
 ---
 
 ## Delphic Ventures
-**Software Engineering Contractor** *Jan 2010 - Sep 2011 · 1 yr 9 mos* *San Francisco Bay Area · On-site* * Designed, engineered, and shipped custom software architectures and backend systems to resolve deep-domain business bottlenecks across diverse sectors, including high-frequency financial markets and mobile gaming frameworks.
+**Software Engineering Contractor** *Jan 2010 - Sep 2011 · 1 yr 9 mos* *San Francisco Bay Area · On-site* 
+
+* Designed, engineered, and shipped custom software architectures and backend systems to resolve deep-domain business bottlenecks across diverse sectors, including high-frequency financial markets and mobile gaming frameworks.
 * Provided specialized architectural advisory for a leading multinational corporation’s cloud ecosystem, detailing next-generation frameworks for automated cloud provisioning, cluster isolation, and infrastructure management.
 
 ---
 
 ## Harvard University
-**Graduate Student** *Sep 2007 - Dec 2009 · 2 yrs 4 mos* *Cambridge, Massachusetts, United States · On-site* Doctoral student at the **Harvard Business School**. Undertook a highly rigorous, immersive research curriculum focusing on advanced Corporate Finance, Operations Management, Quantitative Research Methodologies, and Organizational Behavior.
+**Graduate Student** *Sep 2007 - Dec 2009 · 2 yrs 4 mos* *Cambridge, Massachusetts, United States · On-site* 
+
+
+Doctoral student at the **Harvard Business School**. Undertook a highly rigorous, immersive research curriculum focusing on advanced Corporate Finance, Operations Management, Quantitative Research Methodologies, and Organizational Behavior.
 
 ---
 
