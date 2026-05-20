@@ -3,8 +3,9 @@
 This directory has a sample of the web apps I have created.
 
 [+]
+## TL;DR
 
-TL:DR - List of Hercules apps:
+TL;DR - List of Hercules apps:
 
 [+]
 
@@ -20,9 +21,9 @@ https://retrograms-crm-app.onhercules.app/
 [+]
 
 
-DISCUSSION:
+## DISCUSSION:
 
-# Web Applications Portfolio
+### Web Applications Portfolio
 
 Welcome! This directory contains a curated selection of live web applications I have designed and built. These projects demonstrate my focus on creating functional, deployment-ready software solutions.
 
