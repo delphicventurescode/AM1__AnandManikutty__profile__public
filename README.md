@@ -6,9 +6,12 @@ This GitHub repo has information for my LinkedIn.
 
 TL;DR -
 
-(a) Go here for my LinkedIn profile in .md format: LIN3_LinkedInProfileInDotMD #gravaLigilo
+(a) Go here for my LinkedIn profile in .md format: /LIN3_LinkedInProfileInDotMD/ #gravaLigilo
+
 (b) Go here for my IT professional profile: /it-professional-profile/
+
 (c) Go here for my researcher portfolio: /researcher-portfolio/
+
 (d) Go here for my writer portfolio: /writer-portfolio/
 
 [+]
