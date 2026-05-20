@@ -4,7 +4,7 @@ This GitHub repo has information for my LinkedIn.
  
 [+]
 
-TL;DR -
+**TL;DR -**
 
 (a) Go here for my LinkedIn profile in .md format: /LIN3_LinkedInProfileInDotMD/ #gravaLigilo
 
