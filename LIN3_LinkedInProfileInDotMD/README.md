@@ -83,7 +83,7 @@ Intellectual Property & Regulatory Role. 📜
 ---
 
 ## Qwykr Technologies
-**Senior Director** · Full-time* | *Bengaluru, Karnataka, India · On-site* 🚀 |
+**Senior Director** | Full-time* | *Bengaluru, Karnataka, India · On-site* 🚀 |
 
 
 Directed technology and business consulting initiatives for diverse digital brands, including corporate media platforms like Namaste Bharat and Pravasi Indians magazine. Qwykr Technologies provides high-impact software architecture and business strategy for early-stage startups and enterprise clients. 🚀
@@ -98,7 +98,7 @@ Directed technology and business consulting initiatives for diverse digital bran
 ---
 
 ## MaxedS
-**Vice President - Client Relationship & Strategic Planning** *Jul 2021 - Jan 2023 · Part-time* | *Bangalore Urban, Karnataka, India · Remote* 📊 |
+**Vice President - Client Relationship & Strategic Planning** | *Jul 2021 - Jan 2023 · Part-time* | *Bangalore Urban, Karnataka, India · Remote* 📊 |
 
 
 Served as a core Strategy Advisor for an innovative technology sales and acceleration firm based in Chicago. Formulated enterprise sales initiatives, structured strategic outreach campaigns to global data firms like Abzooba, and integrated data-driven sales architectures with hands-on systems development. 📊
@@ -108,7 +108,7 @@ During this tenure, I ideated and mapped the foundational system tools that ulti
 ---
 
 ## Namaste Bharat Magazine
-**Cofounder, Writer & Director of Public Relations** *Sep 2021 - Mar 2022 · Full-time* | *Bangalore Urban, Karnataka, India · Hybrid* 👑 |
+**Cofounder, Writer & Director of Public Relations** | *Sep 2021 - Mar 2022 · Full-time* | *Bangalore Urban, Karnataka, India · Hybrid* 👑 |
 
 
 Cofounded Namaste Bharat magazine, a premium media platform celebrating the achievements of the Indian diaspora, which subsequently expanded its editorial vision to evolve into Pravasi Indians. 👑
@@ -121,7 +121,7 @@ Cofounded Namaste Bharat magazine, a premium media platform celebrating the achi
 ---
 
 ## Qwykr Technologies
-**Director** *Jan 2018 - Sep 2021 · 3 yrs 9 mos* | *Bengaluru, Karnataka, India · On-site*  🗺️ |
+**Director** | *Jan 2018 - Sep 2021 · 3 yrs 9 mos* | *Bengaluru, Karnataka, India · On-site*  🗺️ |
 
 
 Delivered elite software architecture and business advisory consulting to prominent enterprise entities, including Hindustan Times Media Labs and Netalla Innovations.  🗺️
@@ -133,7 +133,7 @@ Delivered elite software architecture and business advisory consulting to promin
 ---
 
 ## Spot Protocol
-**Advisor** · 6 mos* | *San Francisco Bay Area · Hybrid*  🔗 |
+**Advisor** | 6 mos* | *San Francisco Bay Area · Hybrid*  🔗 |
 
 
 Advised on the system mechanics of Spot Protocol—a cutting-edge, blockchain-based decentralized architecture engineered to facilitate fractional ownership of high-value, real-world assets through secure asset tokenization. 🔗
@@ -145,7 +145,7 @@ Advised on the system mechanics of Spot Protocol—a cutting-edge, blockchain-ba
 ---
 
 ## Hartnell College
-**Teaching role (Adjunct Professor)** *Aug 2016 - Dec 2017 · 1 yr 5 mos* *Salinas, California, United States · On-site*  💻
+**Teaching role (Adjunct Professor)** | *Aug 2016 - Dec 2017 · 1 yr 5 mos | *Salinas, California, United States · On-site*  💻 |
 
 
 Instructed undergraduate courses in computer programming, software design engineering, and practical algorithmic problem-solving. 💻 Mentored students at the intersection of technical engineering and commercial business logic, ensuring curriculum relevance against fast-moving Silicon Valley expectations. Emphasized data-driven software development, applied project paradigms, and foundational preparation for careers in AI and database systems.
@@ -153,7 +153,7 @@ Instructed undergraduate courses in computer programming, software design engine
 ---
 
 ## Delphic Ventures
-**Director** *Jan 2014 - Aug 2016 · 2 yrs 8 mos* *San Francisco Bay Area · On-site*  🔄
+**Director** | *Jan 2014 - Aug 2016 | 2 yrs 8 mos | *San Francisco Bay Area · On-site*  🔄 |
 
 Director of Technology and Marketing role. 🔄
 * Spearheaded high-end B2B marketing, positioning, and strategy for advanced IT consulting services, engineering a 45% increase in active client engagement through rigorous, data-driven campaigns.
@@ -162,7 +162,7 @@ Director of Technology and Marketing role. 🔄
 ---
 
 ## Oracle
-**Principal Product Manager** *Jul 2012 - Jan 2014 · 1 yr 7 mos* *Redwood City, California, United States · On-site 🏗️
+**Principal Product Manager** | *Jul 2012 - Jan 2014 | 1 yr 7 mos* | *Redwood City, California, United States · On-site 🏗️ |
 
 Principal Product Manager role. 🏗️
 * Directed high-impact enterprise software initiatives within Oracle’s Application Development Framework, successfully driving a 7% increase in global enterprise utilization. Led elite, cross-functional engineering and product management teams to build, scale, and optimize the core architecture powering Oracle CRM, HCM, and Financials—a core enterprise software suite generating over $3B+ in corporate revenue.
@@ -170,7 +170,7 @@ Principal Product Manager role. 🏗️
 ---
 
 ## Stanford University
-**Masters Student** *Sep 2011 - Jul 2012 · 11 mos* *Stanford, California, United States · On-site*  🌲
+**Masters Student** | *Sep 2011 - Jul 2012 · 11 mos* | *Stanford, California, United States · On-site*  🌲|
 
 Masters student at Stanford University. 🌲
 * Completed an intensive, comprehensive graduate curriculum focusing on Marketing Management, Corporate Finance, Operations, Financial Accounting, and Organizational Behavior.
@@ -179,7 +179,7 @@ Masters student at Stanford University. 🌲
 ---
 
 ## Delphic Ventures 
-**Software Engineering Contractor** *Jan 2010 - Sep 2011 · 1 yr 9 mos* *San Francisco Bay Area · On-site* ⚙️
+**Software Engineering Contractor** | *Jan 2010 - Sep 2011 · 1 yr 9 mos* | *San Francisco Bay Area · On-site* ⚙️ |
 
 Contract Software Engineering role. ⚙️
 * Designed, engineered, and shipped custom software architectures and backend systems to resolve deep-domain business bottlenecks across diverse sectors, including high-frequency financial markets and mobile gaming frameworks.
@@ -188,7 +188,7 @@ Contract Software Engineering role. ⚙️
 ---
 
 ## Harvard University
-**Graduate Student** *Sep 2007 - Dec 2009 · 2 yrs 4 mos* *Cambridge, Massachusetts, United States · On-site* 🏛️
+**Graduate Student** | *Sep 2007 - Dec 2009 · 2 yrs 4 mos* *Cambridge, Massachusetts, United States · On-site* 🏛️ |
 
 
 Doctoral student at the **Harvard Business School**. 🏛️
@@ -197,7 +197,7 @@ Doctoral student at the **Harvard Business School**. 🏛️
 ---
 
 ## Digital Green
-**Principal Consultant** *Jun 2006 - Sep 2007 · 1 yr 4 mos* *Bangalore Urban, Karnataka, India · Remote*  🌱
+**Principal Consultant** | *Jun 2006 - Sep 2007 · 1 yr 4 mos* *Bangalore Urban, Karnataka, India · Remote*  🌱 |
 
 Principal Consultant role. 🌱
 * Conducted deep operational research and strategic analysis to align large-scale social objectives with data-driven agronomic deployment.
@@ -207,7 +207,7 @@ Principal Consultant role. 🌱
 ---
 
 ## Oracle
-**Senior Member of Technical Staff** *Jun 2000 - Jun 2006 · 6 yrs 1 mo* *Redwood City, California, United States · On-site*  💾
+**Senior Member of Technical Staff** | *Jun 2000 - Jun 2006 · 6 yrs 1 mo* *Redwood City, California, United States · On-site*  💾 |
 
 Core Software Engineering role within Oracle's elite **Server Technologies Division**. Later, was charged with significant Language Design and Software Patenting responsibilities. 💾
 
@@ -219,7 +219,7 @@ Core Software Engineering role within Oracle's elite **Server Technologies Divis
 ---
 
 ## Microsoft
-**Software Design Engineer** *Feb 1999 - Jun 2000 · 1 yr 5 mos* *Redmond, Washington, United States · On-site*  🏆
+**Software Design Engineer** | *Feb 1999 - Jun 2000 · 1 yr 5 mos* *Redmond, Washington, United States · On-site*  🏆 |
 
 Software Engineer role. 🏆
 * Engineered core transactional features, optimization routines, and relational engine sub-systems for the **Microsoft SQL Server Relational Engine Group**.
