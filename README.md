@@ -65,7 +65,7 @@ Each project is presented in standalone `.md` files for clarity.
 ---
 
 
-### **3. `/academicCV/`**
+### **3. `/A1_academicCV/`**
 
 Envisaged to contain my long-format academic CV, including:
 - Research publications  
