@@ -18,6 +18,8 @@ This GitHub repo provides additional information to augment the information alre
 
 (f) Go here for a list of my granted patents: /patents/
 
+(g) Go here for information related to my recent World Record breaking effort: A3_WorldRecordAttempt (infoset (+ potential webpage) under construction!)
+
 [+]
 
 # Anand Manikutty — Professional & Research Portfolio
