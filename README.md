@@ -67,7 +67,7 @@ Each project is presented in standalone `.md` files for clarity.
 
 ### **3. `/academicCV/`**
 
-Contains my long-format academic CV, including:
+Envisaged to contain my long-format academic CV, including:
 - Research publications  
 - Teaching experience    
 - Talks, lectures, and theoretical contributions
@@ -117,7 +117,7 @@ A detailed, narrative-style professional profile that integrates:
 - Academic contributions  
 - Cross-disciplinary research  
 
-This is a more comprehensive version of my LinkedIn About section.
+This is a more comprehensive version of my LinkedIn About section. 
 
 ---
 
