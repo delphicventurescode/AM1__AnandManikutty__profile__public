@@ -20,7 +20,7 @@ To learn more about my background and view my work, please explore my **𝐩𝐫
 ---
 
 ## Fulmo Technologies
-**Chief Technology Officer** *Mar 2024 - Present · Full-time* *Bengaluru, Karnataka, India* ⚡
+**Chief Technology Officer** · Full-time* *Bengaluru, Karnataka, India* ⚡
 
 
 Serve as a high-level Technology and Business Consultant, offering strategic services to companies and MNCs. Fulmo Technologies provides comprehensive technology consulting to both agile startups and established corporations, building upon proprietary solutions originally ideated across prominent Indian and U.S. ventures. ⚡
@@ -83,7 +83,7 @@ Intellectual Property & Regulatory Role. 📜
 ---
 
 ## Qwykr Technologies
-**Senior Director** *Mar 2022 - Sep 2023 · Full-time* *Bengaluru, Karnataka, India · On-site* 🚀
+**Senior Director** · Full-time* *Bengaluru, Karnataka, India · On-site* 🚀
 
 
 Directed technology and business consulting initiatives for diverse digital brands, including corporate media platforms like Namaste Bharat and Pravasi Indians magazine. Qwykr Technologies provides high-impact software architecture and business strategy for early-stage startups and enterprise clients. 🚀
@@ -133,7 +133,7 @@ Delivered elite software architecture and business advisory consulting to promin
 ---
 
 ## Spot Protocol
-**Advisor** *Nov 2017 - Apr 2018 · 6 mos* *San Francisco Bay Area · Hybrid*  🔗
+**Advisor** · 6 mos* *San Francisco Bay Area · Hybrid*  🔗
 
 
 Advised on the system mechanics of Spot Protocol—a cutting-edge, blockchain-based decentralized architecture engineered to facilitate fractional ownership of high-value, real-world assets through secure asset tokenization. 🔗
