@@ -14,6 +14,10 @@ This GitHub repo has information for my LinkedIn.
 
 (d) Go here for my writer portfolio: /writer-portfolio/
 
+(e) Go here for a list of my published papers: /papers/
+
+(f) Go here for a list of my granted patents: /patents/
+
 [+]
 
 # Anand Manikutty — Professional & Research Portfolio
