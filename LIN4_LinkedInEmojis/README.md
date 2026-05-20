@@ -1,6 +1,6 @@
 # README
 
-I have come up with a unique emoji scheme for my LinkedIn profile. 
+I have come up with a unique emoji scheme for this GitHub repo which provides additional information to augment the information already present on my LinkedIn profile. 
 
 I have a unique, tailored emoji for each of my roles, reflecting the distinct industry, focus, or milestone of that specific position:
 
