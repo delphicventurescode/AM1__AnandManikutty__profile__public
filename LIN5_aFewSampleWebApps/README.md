@@ -40,20 +40,20 @@ Welcome! This directory contains a curated selection of live web applications I 
 
 ## 🚀 Live Applications
 
-### 🔹 Sapienta CRM
+### 🔹Sapienta CRM
 * **Live Link:** [sapientacrm.onhercules.app](https://sapientacrm.onhercules.app/)
 * **Description:** A streamlined Customer Relationship Management (CRM) application designed to optimize workflow tracking and data management.
 
-### 🔹 Polyglot Poet World (Record Manager for Books)
+### 🔹Polyglot Poet World (Record Manager for Books)
 * **Live Link:** [polyglotpoetworldrecord.onhercules.app](https://polyglotpoetworldrecord.onhercules.app/)
 * **Description:** A specialized data management platform built to track, organize, and manage large-scale volume publishing records and metadata across multi-language collections.
 
-### Kagazi web app:
+### 🔹Kagazi web app:
 * **Live Link:**
 https://kagazi-sito.onrender.com/
 * A web app offering high end tailoring solutions for expats and local South Asians alike.
 
-### Sentimento  web app:
+### 🔹Sentimento  web app:
 * **Live Link:**
 [https://kagazi-sito.onrender.com/
 ](https://sen1-sentimento-replit-app-priv.onrender.com/
@@ -61,11 +61,11 @@ https://kagazi-sito.onrender.com/
 
 * A simple web app offering mood tracking.
   
-### 🔹 Retrograms CRM
+### 🔹Retrograms CRM
 * **Live Link:** [retrograms-crm-app.onhercules.app](https://retrograms-crm-app.onhercules.app/)
 * **Description:** A focused CRM web application tailored for specialized communication logs and client management.
 
-### Meridian ERP
+### 🔹Meridian ERP
 * **Live Link:** 
 https://meridian-erp.onhercules.app/
 * A visually clean ERP web app
