@@ -4,7 +4,7 @@ Here is my LinkedIn profile information in .md format.
 
 [+]
 
-markdown_content = """# Work Experience
+# WORK EXPERIENCE
 
 ## PES University
 **Visiting Faculty** *Oct 2025 - Present* *Bangalore Urban, Karnataka, India · On-site* I am currently a Visiting Faculty member at PES University, teaching in the MBA program. I design and deliver courses and educational material that **𝐛𝐫𝐢𝐝𝐠𝐞 𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐭𝐡𝐞𝐨𝐫𝐲 𝐰𝐢𝐭𝐡 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞**. My teaching focuses on strategic thinking, brand management, and technology-driven decision-making, utilizing interactive sessions and applied projects to prepare students for today’s dynamic business environment.
