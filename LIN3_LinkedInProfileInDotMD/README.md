@@ -7,7 +7,7 @@ Here is my LinkedIn profile information in .md format.
 # WORK EXPERIENCE
 
 ## PES University
-**Visiting Faculty** *Oct 2025 - Present* | *Bangalore Urban, Karnataka, India · On-site* 🎓
+**Visiting Faculty** | *Oct 2025 - Present* | *Bangalore Urban, Karnataka, India · On-site* 🎓
 
 I am currently a Visiting Faculty member at PES University, teaching in the MBA program. 🎓 I design and deliver courses and educational material that **𝐛𝐫𝐢𝐝𝐠𝐞 𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐭𝐡𝐞𝐨𝐫𝐲 𝐰𝐢𝐭𝐡 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞**. My teaching focuses on strategic thinking, brand management, and technology-driven decision-making, utilizing interactive sessions and applied projects to prepare students for today’s dynamic business environment.
 
@@ -20,7 +20,7 @@ To learn more about my background and view my work, please explore my **𝐩𝐫
 ---
 
 ## Fulmo Technologies
-**Chief Technology Officer** · Full-time* | *Bengaluru, Karnataka, India* ⚡
+**Chief Technology Officer** | Full-time* | *Bengaluru, Karnataka, India* ⚡
 
 
 Serve as a high-level Technology and Business Consultant, offering strategic services to companies and MNCs. Fulmo Technologies provides comprehensive technology consulting to both agile startups and established corporations, building upon proprietary solutions originally ideated across prominent Indian and U.S. ventures. ⚡
@@ -34,7 +34,7 @@ Serve as a high-level Technology and Business Consultant, offering strategic ser
 ---
 
 ## Various Startups, Organizations and Scale-ups
-**Strategic Advisor** *Jun 2007 - Present · Part-time*  | San Francisco Bay Area, Bangalore 🧭 |
+**Strategic Advisor** | *Jun 2007 - Present · Part-time*  | San Francisco Bay Area, Bangalore 🧭 |
 
 
 Provide strategic, hands-on advisory services to startups, mid-market companies, and incubator-backed ventures. 🧭 Partner with executive teams to guide business and operating models, product architecture, UX/design strategy, go-to-market execution, optimized pricing structures, customer success frameworks, and sustainable profitability metrics.
@@ -42,7 +42,7 @@ Provide strategic, hands-on advisory services to startups, mid-market companies,
 ---
 
 ## Fulmo Talk Series
-**Host** *Jun 2025 - Dec 2025 · Part-time* | *Bangalore Urban, Karnataka, India · On-site*  🎙️ |
+**Host** | *Jun 2025 - Dec 2025 | Part-time* | *Bangalore Urban, Karnataka, India · On-site*  🎙️ |
 
 
 Host. Speaker. Author. Deep Generalist. 🎙️
@@ -59,7 +59,7 @@ Explored and ideated deep theoretical frameworks for human wellness and cognitiv
 ---
 
 ## Various Organizations
-**Strategic Advisor and Advisory Board Member** *Jan 2018 - Oct 2025 · Part-time* | **𝐈𝐧𝐯𝐞𝐬𝐭𝐨𝐫, 𝐀𝐝𝐯𝐢𝐬𝐨𝐫, 𝐚𝐧𝐝 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫** 🧠 |
+**Strategic Advisor and Advisory Board Member** | *Jan 2018 - Oct 2025 · Part-time* | **𝐈𝐧𝐯𝐞𝐬𝐭𝐨𝐫, 𝐀𝐝𝐯𝐢𝐬𝐨𝐫, 𝐚𝐧𝐝 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫** 🧠 |
 
 
 Led and contributed to multiple high-impact, not-for-profit initiatives focused on mental health, resilience, and student well-being. Delivered invited talks, technical workshops, and keynotes at premier institutions including **𝐈𝐈𝐓 𝐌𝐚𝐝𝐫𝐚𝐬, 𝐈𝐄𝐄𝐄 𝐒𝐨𝐜𝐢𝐞𝐭𝐲, 𝐏𝐄𝐒 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲, 𝐀𝐂𝐌 𝐒𝐨𝐜𝐢𝐞𝐭𝐲**, and the **𝐑𝐨𝐭𝐚𝐫𝐚𝐜𝐭 𝐂𝐥𝐮𝐛**. 🧠
@@ -71,7 +71,7 @@ Developed **𝐋𝐚 𝐆𝐱𝐨𝐣𝐚 𝐏𝐫𝐨𝐣𝐞𝐤𝐭𝐨**, an
 ---
 
 ## USPTO
-**Patent Examiner** *Sep 2023 - Mar 2024 · Full-time* | *Sacramento, California, United States · On-site*  📜 |
+**Patent Examiner** | *Sep 2023 - Mar 2024 · Full-time* | *Sacramento, California, United States · On-site*  📜 |
 
 
 Intellectual Property & Regulatory Role. 📜
