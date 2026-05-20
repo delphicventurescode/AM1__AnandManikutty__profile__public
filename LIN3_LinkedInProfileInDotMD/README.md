@@ -155,7 +155,7 @@ Instructed undergraduate courses in computer programming, software design engine
 ## Delphic Ventures
 **Director** *Jan 2014 - Aug 2016 · 2 yrs 8 mos* *San Francisco Bay Area · On-site* 
 
-
+Director of Technology and Marketing role.
 * Spearheaded high-end B2B marketing, positioning, and strategy for advanced IT consulting services, engineering a 45% increase in active client engagement through rigorous, data-driven campaigns.
 * Played a critical corporate turnaround role for CoinTerra (a Texas-based high-performance hardware firm behind the world's fastest Bitcoin mining systems) during a highly volatile financial restructuring phase, designing lean operational workflows that stabilized critical delivery paths.
 
