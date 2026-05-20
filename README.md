@@ -1,6 +1,6 @@
 # AM1__AnandManikutty__profile__public
 
-This GitHub repo has information for my LinkedIn.
+This GitHub repo provides additional information to augment the information already present on my LinkedIn profile about my professional journey and work experience.
  
 [+]
 
