@@ -20,7 +20,7 @@ To learn more about my background and view my work, please explore my **𝐩𝐫
 ---
 
 ## Fulmo Technologies
-**Chief Technology Officer** | Full-time* | *Bengaluru, Karnataka, India* ⚡
+**Chief Technology Officer** | Full-time | *Bengaluru, Karnataka, India* ⚡
 
 
 Serve as a high-level Technology and Business Consultant, offering strategic services to companies and MNCs. Fulmo Technologies provides comprehensive technology consulting to both agile startups and established corporations, building upon proprietary solutions originally ideated across prominent Indian and U.S. ventures. ⚡
