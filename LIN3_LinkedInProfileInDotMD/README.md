@@ -47,7 +47,6 @@ Provide strategic, hands-on advisory services to startups, mid-market companies,
 
 Host. Speaker. Author. Deep Generalist. 🎙️
 
-
 Architected and developed the Fulmo Talk Series platform to democratize science-based insights and thought leadership. From interviewing the "Queen of Happiness" Prof. Sonja Lyubomirsky to engineering pioneers like Dr. Sudhanshu Mani, the series bridges the gap between high-level expertise and student communities worldwide. 
 
 Explored and ideated deep theoretical frameworks for human wellness and cognitive performance. As I transition into an advisory role with the series, my focus centers on the concept of **"𝐓𝐡𝐞 𝐃𝐞𝐞𝐩 𝐆𝐞𝐧𝐞𝐫𝐚𝐥𝐢𝐬𝐭"**—exploring the massive execution gap between surface-level generalists and hyper-competent practitioners who achieve **𝐭𝐫𝐮𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞** across multiple complex domains.
