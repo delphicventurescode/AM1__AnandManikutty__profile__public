@@ -96,7 +96,7 @@ Areas of contribution include: databases, XML technologies, distributed systems.
 
 ---
 
-## 📄 Root-Level Markdown Files
+## 📄 Root-Level Markdown Files (Only Main Files)
 
 ### **`README.md`**
 The file you are currently reading — high-level overview of the repository.
