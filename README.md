@@ -4,6 +4,15 @@ This GitHub repo has information for my LinkedIn.
  
 [+]
 
+TL;DR -
+
+(a) Go here for my LinkedIn profile in .md format: LIN3_LinkedInProfileInDotMD #gravaLigilo
+(b) Go here for my IT professional profile: /it-professional-profile/
+(c) Go here for my researcher portfolio: /researcher-portfolio/
+(d) Go here for my writer portfolio: /writer-portfolio/
+
+[+]
+
 # Anand Manikutty — Professional & Research Portfolio
 
 This repository consolidates my professional materials, academic work, theoretical projects, and industry-facing profiles. It is designed as a single point of reference for recruiters, collaborators, research partners, and anyone interested in my work across technology, AI/ML, strategy, and the humanities.
