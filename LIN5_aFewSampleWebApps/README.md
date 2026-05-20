@@ -24,6 +24,9 @@ https://retrograms-crm-app.onhercules.app/
 (e) Sentimento web app:
 https://sen1-sentimento-replit-app-priv.onrender.com/
 
+(f) Meridian ERP:
+https://meridian-erp.onhercules.app/
+
 [+]
 
 
@@ -61,8 +64,11 @@ https://kagazi-sito.onrender.com/
 ### 🔹 Retrograms CRM
 * **Live Link:** [retrograms-crm-app.onhercules.app](https://retrograms-crm-app.onhercules.app/)
 * **Description:** A focused CRM web application tailored for specialized communication logs and client management.
-* **Tech Stack:** *[e.g., JavaScript, HTML5, CSS3]*
 
+### Meridian ERP
+* **Live Link:** 
+https://meridian-erp.onhercules.app/
+* A visually clean ERP web app
 ---
 
 ## 🛠️ Infrastructure & Deployment
